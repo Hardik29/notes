@@ -29,13 +29,13 @@ source ~/.bashrc  # or source ~/.zshrc
 pyenv install [PYTHON_VERSION]
 ```
 
-# Python Version:
+# Check Python Version:
 
 ```
-pyenv vetrsions
+pyenv versions
 ```
 
-# Python Version Global:
+# Set Globally Python Version:
 
 ```
 pyenv global [PYTHON_VERSION]
