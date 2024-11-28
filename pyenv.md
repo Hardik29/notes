@@ -10,6 +10,18 @@ curl https://pyenv.run | bash
 
 # After installation, you'll need to add some lines to your shell configuration file (usually ~/.bashrc or ~/.zshrc):
 
+## go to your bash script
+ ```
+# Go to your home directory
+cd ~
+
+# List all files, including hidden ones
+ls -la
+
+# Or directly check if .bashrc exists
+ls -l .bashrc
+```
+## Add Them at the end (use "vim .bashrc" to open the file and "i" to insert and ":wq" to write and quit)
 ```
 # Pyenv configuration
 export PATH="$HOME/.pyenv/bin:$PATH"
