@@ -1,4 +1,4 @@
-# Installing Pynev
+# Installing Pyenv
 
 ```
 # Install dependencies
