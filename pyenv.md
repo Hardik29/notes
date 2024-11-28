@@ -23,8 +23,20 @@ eval "$(pyenv virtualenv-init -)"
 ```
 source ~/.bashrc  # or source ~/.zshrc
 ```
-# Python Version:
+# Python Version Install:
 
 ```
 pyenv install [PYTHON_VERSION]
+```
+
+# Python Version:
+
+```
+pyenv vetrsions
+```
+
+# Python Version Global:
+
+```
+pyenv global [PYTHON_VERSION]
 ```
