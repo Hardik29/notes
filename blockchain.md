@@ -9,3 +9,6 @@ result will be in format:-
 ```
 {"jsonrpc":"2.0","id":1,"result":"0x144e3ad"}
 ```
+
+The command `history | grep validator` will display all the commands typed with the word 'validator'.
+Your private key will be displayed in the results
